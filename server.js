@@ -12,6 +12,7 @@ dotenv.config();
 connectDB();
 
 //rest obejct
+// Hi
 const app = express();
 
 //middlewares
