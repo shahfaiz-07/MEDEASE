@@ -17,7 +17,6 @@ MEDEASE is a full-stack web application built using the MERN (MongoDB, Express.j
 - **Frontend**: React.js with Redux for state management, React Router for navigation.
 - **Backend**: Node.js with Express.js for the server, MongoDB for database storage.
 - **Authentication**: JSON Web Tokens (JWT) for secure authentication, bcrypt for password hashing.
-- **Real-time Updates**: Socket.io for real-time notification updates.
 - **Chatbot**: Integrated chatbot providing assistance and medical information.
 - **Deployment**: The application is deployed on [Render](https://render.com/). You can access the live version [here](https://medease-w924.onrender.com/login).
 
